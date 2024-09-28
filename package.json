@@ -1,5 +1,5 @@
 {
-  "name": "demostracion",
+  "name": "web-sockets-ejemplo",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
